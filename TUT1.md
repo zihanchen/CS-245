@@ -3,6 +3,5 @@
 Well-formed formula
 
 
-$$
-\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
-$$
+$-b \pm \sqrt{b^2 - 4ac} \over 2a$  
+
